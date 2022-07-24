@@ -1,0 +1,7 @@
+1. Create Object Trace Channel as "Grabber".
+To get Trace Collision Channel in Code,
+Project Folder -> Config -> DefaultEngine.ini -> Search channel name.
+
+2. Grab object that are Tagged.
+3. Collision Check between Grabbed Object and Trigger Area.
+4. Move Object after Collision.
